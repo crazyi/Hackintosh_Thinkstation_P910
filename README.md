@@ -5,17 +5,17 @@
 ## Introduction
 Clover and Opencore efi for Thinkstation P910 Hackintosh of macOS High Sierra (10.13.6)
 - Clover efi origined from [KGP](https://github.com/KGP/X99-EFI-Folder-Distributions), a detailed guide from KGP can be found on [InsanelyMac](https://www.insanelymac.com/forum/topic/331703-how-to-build-your-own-mac-pro-based-on-broadwell-eep-haswell-eep-and-x99-successful-buildextended-guide/)
-- Opencore efi was a tanslation of the Clover one with my patch to auto detect Broadwell-EP cpu [#585](https://github.com/acidanthera/bugtracker/issues/585)
-- Both efis can be easily updated to the latest macOS Catalina by using the kernel and kexts patches colleccted by [nmano](https://www.insanelymac.com/forum/topic/335650-kernelandkextpatches-1013x1014x1015x-x99/) 
+- Opencore efi was a tanslation of KGP's with my patch to automaticly detect CPU of Broadwell-EP series [#585](https://github.com/acidanthera/bugtracker/issues/585)
+- Both efis can be easily updated to the latest macOS Catalina by replacing the kernel and kexts patches colleccted by [nmano](https://www.insanelymac.com/forum/topic/335650-kernelandkextpatches-1013x1014x1015x-x99/) 
 
 ## Hardware
-- CPU: **Intel(R) Xeon(R) CPU E5-2650 v4 @ 2.20GHz**
-- Graphics: **NVIDIA Quadro K620**
-- Motherboard: **C610/X99 series chipset**
-- Monitor: **Dell U2715H**
-- Sound Card: **ALC662**
-- Wireless Card: **FV-T919 (BCM94360CD, 4 antennas)**
-- Ethernet Card: **Intel I210/I218-LM**
+- `CPU`: **Intel(R) Xeon(R) CPU E5-2650 v4 @ 2.20GHz**
+- `Graphics`: **NVIDIA Quadro K620**
+- `Motherboard`: **C610/X99 series chipset**
+- `Monitor`: **Dell U2715H**
+- `Sound Card`: **ALC662**
+- `Wireless Card`: **FV-T919 (BCM94360CD, 4 antennas)**
+- `Ethernet Card`: **Intel I210/I218-LM**
 
 ## Bios
 - `VT-x`: **Enabled**
