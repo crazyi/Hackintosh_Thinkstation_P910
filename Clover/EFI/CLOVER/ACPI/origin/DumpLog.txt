@@ -1,0 +1,168 @@
+27:512  9:663  Found BIOS RSDP at FDAB0
+27:512  0:000  Printing ACPI tables from RSDP FDAB0 ...
+27:512  0:000   FDAB0: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+27:512  0:000    (Xsdt: 7B0160A8, Rsdt: 7B016028)
+27:512  0:000    7B0160A8: 'XSDT', 'TC-S02', Rev: 1, Len: 204
+27:512  0:000    7B016028: 'RSDT', 'TC-S02', Rev: 1, Len: 120
+27:512  0:000    Tables in Xsdt: 21
+27:512  0:000    0. 7B045B38: 'FACP', 'TC-S02', Rev: 5, Len: 268
+27:512  0:000        (Dsdt: 7B016200, Facs: 7BED5F80, XDsdt: 7B016200, XFacs: 0)
+27:512  0:000        7B016200: 'DSDT', 'TC-S02', Rev: 2, Len: 194871
+27:515  0:002        7BED5F80: 'FACS', Ver: 2, Len: 64
+27:515  0:000    1. 7B045C48: 'APIC', 'TC-S02', Rev: 3, Len: 424
+27:515  0:000    2. 7B045DF0: 'FPDT', 'TC-S02', Rev: 1, Len: 68
+27:515  0:000    3. 7B045E38: 'FIDT', 'TC-S02', Rev: 1, Len: 156
+27:515  0:000    4. 7B045ED8: 'MCFG', 'TC-S02', Rev: 1, Len: 60
+27:515  0:000    5. 7B045F18: 'TCPA', 'TC-S02', Rev: 2, Len: 50
+27:515  0:000    6. 7B045F50: 'SSDT', 'TC-S02', Rev: 1, Len: 877
+27:515  0:000    7. 7B0462C0: 'UEFI', 'TC-S02', Rev: 1, Len: 66
+27:515  0:000    8. 7B046308: 'HPET', 'TC-S02', Rev: 1, Len: 56
+27:515  0:000    9. 7B046340: 'MSCT', 'TC-S02', Rev: 1, Len: 144
+27:515  0:000    10. 7B0463D0: 'SLIT', 'TC-S02', Rev: 1, Len: 45
+27:515  0:000    11. 7B046400: 'SRAT', 'TC-S02', Rev: 3, Len: 4440
+27:515  0:000    12. 7B047558: 'WDDT', 'TC-S02', Rev: 1, Len: 64
+27:515  0:000    13. 7B047598: 'SSDT', 'TC-S02', Rev: 2, Len: 86159
+27:515  0:000    14. 7B05C628: 'BGRT', 'TC-S02', Rev: 1, Len: 56
+27:515  0:000    15. 7B05C660: 'LUFT', 'TC-S02', Rev: 1, Len: 204800
+27:515  0:000    16. 7B08E660: 'HEST', 'TC-S02', Rev: 1, Len: 168
+27:515  0:000    17. 7B08E708: 'BERT', 'TC-S02', Rev: 1, Len: 48
+27:515  0:000    18. 7B08E738: 'ERST', 'TC-S02', Rev: 1, Len: 560
+27:515  0:000    19. 7B08E968: 'EINJ', 'TC-S02', Rev: 1, Len: 336
+27:515  0:000    20. 7B08EAB8: 'ASF!', 'TC-S02', Rev: 32, Len: 160
+27:515  0:000    Tables in Rsdt: 21
+27:515  0:000    0. 7B016178: 'FACP', 'TC-S02', Rev: 2, Len: 132
+27:515  0:000        (Dsdt: 7B016200, Facs: 7BED5F40)
+27:515  0:000        7B016200: 'DSDT', 'TC-S02', Rev: 2, Len: 194871
+27:518  0:002        7BED5F40: 'FACS', Ver: 0, Len: 64
+27:518  0:000    1. 7B045C48: 'APIC', 'TC-S02', Rev: 3, Len: 424
+27:518  0:000    2. 7B045DF0: 'FPDT', 'TC-S02', Rev: 1, Len: 68
+27:518  0:000    3. 7B045E38: 'FIDT', 'TC-S02', Rev: 1, Len: 156
+27:518  0:000    4. 7B045ED8: 'MCFG', 'TC-S02', Rev: 1, Len: 60
+27:518  0:000    5. 7B045F18: 'TCPA', 'TC-S02', Rev: 2, Len: 50
+27:518  0:000    6. 7B045F50: 'SSDT', 'TC-S02', Rev: 1, Len: 877
+27:518  0:000    7. 7B0462C0: 'UEFI', 'TC-S02', Rev: 1, Len: 66
+27:518  0:000    8. 7B046308: 'HPET', 'TC-S02', Rev: 1, Len: 56
+27:518  0:000    9. 7B046340: 'MSCT', 'TC-S02', Rev: 1, Len: 144
+27:518  0:000    10. 7B0463D0: 'SLIT', 'TC-S02', Rev: 1, Len: 45
+27:518  0:000    11. 7B046400: 'SRAT', 'TC-S02', Rev: 3, Len: 4440
+27:518  0:000    12. 7B047558: 'WDDT', 'TC-S02', Rev: 1, Len: 64
+27:518  0:000    13. 7B047598: 'SSDT', 'TC-S02', Rev: 2, Len: 86159
+27:518  0:000    14. 7B05C628: 'BGRT', 'TC-S02', Rev: 1, Len: 56
+27:518  0:000    15. 7B05C660: 'LUFT', 'TC-S02', Rev: 1, Len: 204800
+27:518  0:000    16. 7B08E660: 'HEST', 'TC-S02', Rev: 1, Len: 168
+27:518  0:000    17. 7B08E708: 'BERT', 'TC-S02', Rev: 1, Len: 48
+27:518  0:000    18. 7B08E738: 'ERST', 'TC-S02', Rev: 1, Len: 560
+27:518  0:000    19. 7B08E968: 'EINJ', 'TC-S02', Rev: 1, Len: 336
+27:518  0:000    20. 7B08EAB8: 'ASF!', 'TC-S02', Rev: 32, Len: 160
+27:518  0:000  Found UEFI Acpi 2.0 RSDP at 7B016000
+27:518  0:000  Saving ACPI tables from RSDP 7B016000 to EFI\CLOVER\ACPI\origin ...
+27:518  0:000   7B016000: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36 -> RSDP.aml
+27:526  0:008    (Xsdt: 7B0160A8, Rsdt: 7B016028)
+27:526  0:000    7B0160A8: 'XSDT', 'TC-S02', Rev: 1, Len: 204 -> XSDT.aml
+27:533  0:006    7B016028: 'RSDT', 'TC-S02', Rev: 1, Len: 120 -> RSDT.aml
+27:541  0:008    Tables in Xsdt: 21
+27:541  0:000    0. 7B045B38: 'FACP', 'TC-S02', Rev: 5, Len: 268 -> FACP.aml
+27:549  0:007        (Dsdt: 7B016200, Facs: 7BED5F80, XDsdt: 7B016200, XFacs: 0)
+27:549  0:000        7B016200: 'DSDT', 'TC-S02', Rev: 2, Len: 194871 -> DSDT.aml
+27:574  0:024        7BED5F80: 'FACS', Ver: 2, Len: 64 -> FACS.aml
+27:583  0:009    1. 7B045C48: 'APIC', 'TC-S02', Rev: 3, Len: 424 -> APIC.aml
+27:592  0:008    2. 7B045DF0: 'FPDT', 'TC-S02', Rev: 1, Len: 68 -> FPDT.aml
+27:600  0:008    3. 7B045E38: 'FIDT', 'TC-S02', Rev: 1, Len: 156 -> FIDT.aml
+27:609  0:008    4. 7B045ED8: 'MCFG', 'TC-S02', Rev: 1, Len: 60 -> MCFG.aml
+27:616  0:007    5. 7B045F18: 'TCPA', 'TC-S02', Rev: 2, Len: 50 -> TCPA.aml
+27:624  0:007    6. 7B045F50: 'SSDT', 'TC-S02', Rev: 1, Len: 877 -> SSDT-0-TC-S02.aml
+27:632  0:008    7. 7B0462C0: 'UEFI', 'TC-S02', Rev: 1, Len: 66 -> UEFI.aml
+27:640  0:008    8. 7B046308: 'HPET', 'TC-S02', Rev: 1, Len: 56 -> HPET.aml
+27:648  0:008    9. 7B046340: 'MSCT', 'TC-S02', Rev: 1, Len: 144 -> MSCT.aml
+27:658  0:009    10. 7B0463D0: 'SLIT', 'TC-S02', Rev: 1, Len: 45 -> SLIT.aml
+27:666  0:008    11. 7B046400: 'SRAT', 'TC-S02', Rev: 3, Len: 4440 -> SRAT.aml
+27:674  0:008    12. 7B047558: 'WDDT', 'TC-S02', Rev: 1, Len: 64 -> WDDT.aml
+27:683  0:008    13. 7B047598: 'SSDT', 'TC-S02', Rev: 2, Len: 86159 -> SSDT-1-TC-S02.aml
+27:697  0:014    14. 7B05C628: 'BGRT', 'TC-S02', Rev: 1, Len: 56 -> BGRT.aml
+27:706  0:008    15. 7B05C660: 'LUFT', 'TC-S02', Rev: 1, Len: 204800 -> LUFT.aml
+27:723  0:016    16. 7B08E660: 'HEST', 'TC-S02', Rev: 1, Len: 168 -> HEST.aml
+27:730  0:007    17. 7B08E708: 'BERT', 'TC-S02', Rev: 1, Len: 48 -> BERT.aml
+27:738  0:007    18. 7B08E738: 'ERST', 'TC-S02', Rev: 1, Len: 560 -> ERST.aml
+27:745  0:007    19. 7B08E968: 'EINJ', 'TC-S02', Rev: 1, Len: 336 -> EINJ.aml
+27:754  0:008    20. 7B08EAB8: 'ASF!', 'TC-S02', Rev: 32, Len: 160 -> ASF!.aml
+27:761  0:007    Tables in Rsdt: 21
+27:761  0:000    0. 7B016178: 'FACP', 'TC-S02', Rev: 2, Len: 132 -> RSDT-FACP.aml
+27:769  0:007        (Dsdt: 7B016200, Facs: 7BED5F40)
+27:769  0:000        7B016200: 'DSDT', 'TC-S02', Rev: 2, Len: 194871
+27:772  0:002        7BED5F40: 'FACS', Ver: 0, Len: 64 -> RSDT-FACS.aml
+27:779  0:007    1. 7B045C48: 'APIC', 'TC-S02', Rev: 3, Len: 424
+27:779  0:000    2. 7B045DF0: 'FPDT', 'TC-S02', Rev: 1, Len: 68
+27:779  0:000    3. 7B045E38: 'FIDT', 'TC-S02', Rev: 1, Len: 156
+27:779  0:000    4. 7B045ED8: 'MCFG', 'TC-S02', Rev: 1, Len: 60
+27:779  0:000    5. 7B045F18: 'TCPA', 'TC-S02', Rev: 2, Len: 50
+27:779  0:000    6. 7B045F50: 'SSDT', 'TC-S02', Rev: 1, Len: 877
+27:779  0:000    7. 7B0462C0: 'UEFI', 'TC-S02', Rev: 1, Len: 66
+27:779  0:000    8. 7B046308: 'HPET', 'TC-S02', Rev: 1, Len: 56
+27:779  0:000    9. 7B046340: 'MSCT', 'TC-S02', Rev: 1, Len: 144
+27:779  0:000    10. 7B0463D0: 'SLIT', 'TC-S02', Rev: 1, Len: 45
+27:779  0:000    11. 7B046400: 'SRAT', 'TC-S02', Rev: 3, Len: 4440
+27:779  0:000    12. 7B047558: 'WDDT', 'TC-S02', Rev: 1, Len: 64
+27:779  0:000    13. 7B047598: 'SSDT', 'TC-S02', Rev: 2, Len: 86159
+27:779  0:000    14. 7B05C628: 'BGRT', 'TC-S02', Rev: 1, Len: 56
+27:779  0:000    15. 7B05C660: 'LUFT', 'TC-S02', Rev: 1, Len: 204800
+27:779  0:000    16. 7B08E660: 'HEST', 'TC-S02', Rev: 1, Len: 168
+27:779  0:000    17. 7B08E708: 'BERT', 'TC-S02', Rev: 1, Len: 48
+27:779  0:000    18. 7B08E738: 'ERST', 'TC-S02', Rev: 1, Len: 560
+27:779  0:000    19. 7B08E968: 'EINJ', 'TC-S02', Rev: 1, Len: 336
+27:779  0:000    20. 7B08EAB8: 'ASF!', 'TC-S02', Rev: 32, Len: 160
+27:779  0:000  Found UEFI Acpi 1.0 RSDP at 7B016000
+27:779  0:000  Printing ACPI tables from RSDP 7B016000 ...
+27:779  0:000   7B016000: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+27:779  0:000    (Xsdt: 7B0160A8, Rsdt: 7B016028)
+27:779  0:000    7B0160A8: 'XSDT', 'TC-S02', Rev: 1, Len: 204
+27:779  0:000    7B016028: 'RSDT', 'TC-S02', Rev: 1, Len: 120
+27:779  0:000    Tables in Xsdt: 21
+27:779  0:000    0. 7B045B38: 'FACP', 'TC-S02', Rev: 5, Len: 268
+27:779  0:000        (Dsdt: 7B016200, Facs: 7BED5F80, XDsdt: 7B016200, XFacs: 0)
+27:779  0:000        7B016200: 'DSDT', 'TC-S02', Rev: 2, Len: 194871
+27:782  0:002        7BED5F80: 'FACS', Ver: 2, Len: 64
+27:782  0:000    1. 7B045C48: 'APIC', 'TC-S02', Rev: 3, Len: 424
+27:782  0:000    2. 7B045DF0: 'FPDT', 'TC-S02', Rev: 1, Len: 68
+27:782  0:000    3. 7B045E38: 'FIDT', 'TC-S02', Rev: 1, Len: 156
+27:782  0:000    4. 7B045ED8: 'MCFG', 'TC-S02', Rev: 1, Len: 60
+27:782  0:000    5. 7B045F18: 'TCPA', 'TC-S02', Rev: 2, Len: 50
+27:782  0:000    6. 7B045F50: 'SSDT', 'TC-S02', Rev: 1, Len: 877
+27:782  0:000    7. 7B0462C0: 'UEFI', 'TC-S02', Rev: 1, Len: 66
+27:782  0:000    8. 7B046308: 'HPET', 'TC-S02', Rev: 1, Len: 56
+27:782  0:000    9. 7B046340: 'MSCT', 'TC-S02', Rev: 1, Len: 144
+27:782  0:000    10. 7B0463D0: 'SLIT', 'TC-S02', Rev: 1, Len: 45
+27:782  0:000    11. 7B046400: 'SRAT', 'TC-S02', Rev: 3, Len: 4440
+27:782  0:000    12. 7B047558: 'WDDT', 'TC-S02', Rev: 1, Len: 64
+27:782  0:000    13. 7B047598: 'SSDT', 'TC-S02', Rev: 2, Len: 86159
+27:782  0:000    14. 7B05C628: 'BGRT', 'TC-S02', Rev: 1, Len: 56
+27:782  0:000    15. 7B05C660: 'LUFT', 'TC-S02', Rev: 1, Len: 204800
+27:782  0:000    16. 7B08E660: 'HEST', 'TC-S02', Rev: 1, Len: 168
+27:782  0:000    17. 7B08E708: 'BERT', 'TC-S02', Rev: 1, Len: 48
+27:782  0:000    18. 7B08E738: 'ERST', 'TC-S02', Rev: 1, Len: 560
+27:782  0:000    19. 7B08E968: 'EINJ', 'TC-S02', Rev: 1, Len: 336
+27:782  0:000    20. 7B08EAB8: 'ASF!', 'TC-S02', Rev: 32, Len: 160
+27:782  0:000    Tables in Rsdt: 21
+27:782  0:000    0. 7B016178: 'FACP', 'TC-S02', Rev: 2, Len: 132
+27:782  0:000        (Dsdt: 7B016200, Facs: 7BED5F40)
+27:782  0:000        7B016200: 'DSDT', 'TC-S02', Rev: 2, Len: 194871
+27:785  0:002        7BED5F40: 'FACS', Ver: 0, Len: 64
+27:785  0:000    1. 7B045C48: 'APIC', 'TC-S02', Rev: 3, Len: 424
+27:785  0:000    2. 7B045DF0: 'FPDT', 'TC-S02', Rev: 1, Len: 68
+27:785  0:000    3. 7B045E38: 'FIDT', 'TC-S02', Rev: 1, Len: 156
+27:785  0:000    4. 7B045ED8: 'MCFG', 'TC-S02', Rev: 1, Len: 60
+27:785  0:000    5. 7B045F18: 'TCPA', 'TC-S02', Rev: 2, Len: 50
+27:785  0:000    6. 7B045F50: 'SSDT', 'TC-S02', Rev: 1, Len: 877
+27:785  0:000    7. 7B0462C0: 'UEFI', 'TC-S02', Rev: 1, Len: 66
+27:785  0:000    8. 7B046308: 'HPET', 'TC-S02', Rev: 1, Len: 56
+27:785  0:000    9. 7B046340: 'MSCT', 'TC-S02', Rev: 1, Len: 144
+27:785  0:000    10. 7B0463D0: 'SLIT', 'TC-S02', Rev: 1, Len: 45
+27:785  0:000    11. 7B046400: 'SRAT', 'TC-S02', Rev: 3, Len: 4440
+27:785  0:000    12. 7B047558: 'WDDT', 'TC-S02', Rev: 1, Len: 64
+27:785  0:000    13. 7B047598: 'SSDT', 'TC-S02', Rev: 2, Len: 86159
+27:785  0:000    14. 7B05C628: 'BGRT', 'TC-S02', Rev: 1, Len: 56
+27:785  0:000    15. 7B05C660: 'LUFT', 'TC-S02', Rev: 1, Len: 204800
+27:785  0:000    16. 7B08E660: 'HEST', 'TC-S02', Rev: 1, Len: 168
+27:785  0:000    17. 7B08E708: 'BERT', 'TC-S02', Rev: 1, Len: 48
+27:785  0:000    18. 7B08E738: 'ERST', 'TC-S02', Rev: 1, Len: 560
+27:785  0:000    19. 7B08E968: 'EINJ', 'TC-S02', Rev: 1, Len: 336
+27:785  0:000    20. 7B08EAB8: 'ASF!', 'TC-S02', Rev: 32, Len: 160
