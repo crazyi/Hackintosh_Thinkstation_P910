@@ -1,0 +1,10 @@
+HS01/SSP1: Case back, Port 01, 2.0/3.0
+HS02/SSP2: Case back, Port 02, 2.0/3.0
+HS03/SSP3: Case back, Port 03, 2.0/3.0
+HS04/SSP4: Case back, Port 04, 2.0/3.0
+HS05/SSP5: Internal Hub, Case front, Port 05，2.0/3.0
+HS06: Internal DVD-RW, Port 06，2.0
+HS09: Case back, Port 06, 2.0
+HS10: Case back, Port 05, 2.0
+HS14: Case back, Port 07, 2.0
+HS13: Case back, Port 08, 2.0
