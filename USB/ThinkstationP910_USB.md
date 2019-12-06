@@ -10,7 +10,7 @@
 |    HS06     |   Internal    |    DVD-RW    |  2.0  |
 |    HS09     |     Back      |      06      |  2.0  |
 |    HS10     |     Back      |      05      |  2.0  |
-|    HS13     |     Back      |      08      |  2.0  |
+|    HS13     |     Back      | 08/Bluetooth |  2.0  |
 |    HS14     |     Back      |      07      |  2.0  |
 |    SSP1     |     Back      |      01      |  3.0  |
 |    SSP2     |     Back      |      02      |  3.0  |
