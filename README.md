@@ -59,4 +59,4 @@ Clover and Opencore efi for Thinkstation P910 Hackintosh of macOS High Sierra (1
 - [KGP](https://github.com/kgp)
 - [EchoEsprit](https://github.com/EchoEsprit)
 - [RehabMan](https://github.com/RehabMan)
-- Shame on both Nvidia and Apple, I have to get stuck in 10.13.6
+- Shame on both Nvidia and Apple, I have to get stuck with macOS 10.13 High Sierra
