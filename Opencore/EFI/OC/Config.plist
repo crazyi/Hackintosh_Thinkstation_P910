@@ -1265,7 +1265,7 @@
 		<true/>
 		<key>Drivers</key>
 		<array>
-			<string>VBoxHfs.efi</string>
+			<string>HFSPlus.efi</string>
 			<string>ApfsDriverLoader.efi</string>
 			<string>FwRuntimeServices.efi</string>
 			<string>VirtualSmc.efi</string>
