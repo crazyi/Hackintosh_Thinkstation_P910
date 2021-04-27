@@ -279,7 +279,7 @@
 			<key>PciRoot(0x0)/Pci(0x1b,0x0)</key>
 			<dict>
 				<key>layout-id</key>
-				<data>BQAAAA==</data>
+				<data>EAAAAA==</data>
 				<key>no-controller-patch</key>
 				<data>AQAAAA==</data>
 			</dict>
